@@ -90,6 +90,7 @@ table {
     font-size: 30px;
     margin-top: 30px;
     cursor: pointer;
+    display: none;
 }
 
 .header-h {
@@ -466,4 +467,7 @@ table {
     }
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+    .menu-icon {
+        display: flex;
+    }
 }
