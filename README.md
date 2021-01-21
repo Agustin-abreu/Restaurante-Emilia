@@ -4,7 +4,7 @@ Un pagina Web informativa del restaurante mas una seccion de contacto para reser
 
 ## Despliegue 📦
 
-El deploy se hizo en el hosting https://app.netlify.com/
+El deploy se hizo en el hosting https://restaurante-emilia.netlify.app/
 
 ## Construido con 🛠️
 
