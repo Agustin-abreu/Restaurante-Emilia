@@ -1,7 +1,5 @@
 # Restaurante-Emilia
 
-# Título del Proyecto
-
 Un pagina Web informativa del restaurante mas una seccion de contacto para reserva 
 
 ## Despliegue 📦
