@@ -25,3 +25,8 @@ function closeNav() {
     });
     
 })(jQuery);
+$(document).ready(function(){ //Hacia arriba
+    irArriba();
+  });
+  
+ 
